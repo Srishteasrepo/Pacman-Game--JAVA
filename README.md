@@ -1,11 +1,12 @@
 🎮 <span style="color:#F7DF1E">PACMAN GAME — JAVA EDITION 👻</span>
+```
 ██████╗  █████╗  ██████╗███╗   ███╗ █████╗ ███╗   ██╗
 ██╔══██╗██╔══██╗██╔════╝████╗ ████║██╔══██╗████╗  ██║
 ██████╔╝███████║██║     ██╔████╔██║███████║██╔██╗ ██║
 ██╔═══╝ ██╔══██║██║     ██║╚██╔╝██║██╔══██║██║╚██╗██║
 ██║     ██║  ██║╚██████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-
+```
 
 🟡 <span style="font-size:1.2em; color:#FFD700;"><b>A retro arcade classic, reborn in Java!</b></span>
 Outrun the ghosts, chomp the pellets, and hack your way to victory 💫
